@@ -1,0 +1,6 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="MAVEN_REPOSITORY" value="/Users/kymjs/.m2/repository" />
+    <macro name="KOTLIN_BUNDLED" value="/Users/apple/Library/Application Support/AndroidStudio3.1/Kotlin/kotlinc" />
+  </component>
+</application>

@@ -1,0 +1,71 @@
+<keymap version="1" name="kymjs" parent="Eclipse (Mac OS X)">
+  <action id="Android.TraceViewSearch" />
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="ConvertJavaToKotlin">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="ExternalSystem.ToggleAutoImport">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="FileChooser.GotoProject" />
+  <action id="FindBugs.ShowQuickSearch" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
+  <action id="FindUsages" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f3" />
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
+  <action id="GotoFile" />
+  <action id="InsertLiveTemplate">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="IntroduceField" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="meta alt f" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift meta f11" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="RunToCursor" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+</keymap>
