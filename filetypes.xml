@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="db-journal" type="PLAIN_TEXT" />
+      <mapping ext="a" type="PLAIN_TEXT" />
+      <removed_mapping ext="a" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
