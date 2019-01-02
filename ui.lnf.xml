@@ -2,6 +2,7 @@
   <component name="UISettings">
     <option name="FONT_FACE" value=".SFNSText-Regular" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="28" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
   </component>
 </application>
