@@ -13,8 +13,8 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.cpp</mask>
-    <mask>*.gradle</mask>
     <mask>*.*</mask>
+    <mask>*.gradle</mask>
     <mask>*.java</mask>
   </component>
 </application>
