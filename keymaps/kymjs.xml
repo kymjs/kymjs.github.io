@@ -1,0 +1,53 @@
+<keymap version="1" name="kymjs" parent="Eclipse (Mac OS X)">
+  <action id="ActivateDebugToolWindow" />
+  <action id="Android.CleanRun" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="ConvertJavaToKotlin">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="ExternalSystem.ToggleAutoImport">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="FileChooser.GotoProject" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="shift f" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="GotoFile" />
+  <action id="IntroduceField" />
+  <action id="IntroduceProperty" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="meta alt f" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="RunToCursor" />
+</keymap>
